@@ -36,7 +36,7 @@
       id: 1,
       title: 'Diamante',
       amount: 2000,
-      imgLink: "https://ibb.co/qMD4gBM",
+      imgLink: "https://i.ibb.co/Lz0qgSz/diamante.png",
       benefits: [
         {
           palestras: "mdi-check-circle-outline",
@@ -51,7 +51,7 @@
       id: 2,
       title: 'Ouro',
       amount: 1000,
-      imgLink: "https://ibb.co/jgBDy5d",
+      imgLink: "https://i.ibb.co/Hn1qt20/ouro.png",
       benefits: [
         {
           palestras: "mdi-cancel",
@@ -65,7 +65,7 @@
       id: 3,
       title: 'Prata',
       amount: 500,
-      imgLink: "https://ibb.co/9ttwPKJ",
+      imgLink: "https://i.ibb.co/q5506qz/prata.png",
       benefits: [
         {
           palestras: "mdi-cancel",
@@ -79,7 +79,7 @@
       id: 4,
       title: 'Bronze',
       amount: 250,
-      imgLink: "https://ibb.co/xgn4w9B",
+      imgLink: "https://i.ibb.co/DMBqmcv/bronze.png",
       benefits: [
         {
           palestras: "mdi-cancel",
