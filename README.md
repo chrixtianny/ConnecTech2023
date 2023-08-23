@@ -1,4 +1,4 @@
-# Website do Evento ConnecTech #
+# Website para Planos de Patrocínio do Evento ConnecTech #
 Bem-vindo ao repositório do website do Evento ConnecTech! Este repositório contém o código-fonte para o site do plano de patrocínio do evento ConnecTech 2023. O site apresenta detalhes do evento, como justificativa e objetivos, os planos de patrocínio e informações de contato.
 
 ## 1. Seção Sobre 
