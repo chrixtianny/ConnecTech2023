@@ -33,6 +33,7 @@
       </div>
     </section>
 </template>
+
 <style scoped>
  
 .contact-section {
@@ -84,7 +85,6 @@
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     margin-bottom: 20px;
-    color: #333; 
     padding: 40px 20px;
   
 }

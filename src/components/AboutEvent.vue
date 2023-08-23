@@ -1,7 +1,6 @@
 <template>
 <div>
     <section class="event-introduction">
-      <!-- Conheça o Evento -->
       <div class="event-intro-content">
         <h2 class="intro-title-one">Conheça o Evento</h2>
         <p class="intro-text">
@@ -86,14 +85,12 @@
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #333; /* Dark text color */
 }
 .intro-title {
   text-align: right;
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #333; /* Dark text color */
 }
 
 .intro-text {
@@ -101,7 +98,6 @@
   text-align: justify;
   line-height: 1.6;
   margin-bottom: 20px;
-  color: #666; /* Slightly lighter text color */
 }
 
 .objectives-content {
@@ -115,7 +111,6 @@
   font-size: 28px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #333; /* Dark text color */
 }
 .objectives-list {
   font-size: 16px;
@@ -123,8 +118,6 @@
   justify-content: center;
   line-height: 1.6;
   margin-bottom: 20px;
-  color: #666; /* Slightly lighter text color */
 }
-
 
 </style>
