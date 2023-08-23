@@ -4,7 +4,7 @@
       <v-card class="sponsoring-plans" v-for="plan in plans_data" :key="plan.id">
         <div class="plan-content">
           <div class="plan-details">
-            <img class="icon-plans" :src="'../src/assets/' + plan.title + '.png'" :alt="plan.title" style="max-height: 100px;">
+            <img class="icon-plans" :src="plan.imgLink" :alt="plan.title" style="max-height: 100px;">
             <div class="plan-title">{{ plan.title }}</div>
             <div class="plan-amount">{{ formatCurrency(plan.amount) }}</div>
             <div class="benefit-card" v-for="benefit in plan.benefits" :key="benefit.id">
@@ -36,6 +36,7 @@
       id: 1,
       title: 'Diamante',
       amount: 2000,
+      imgLink: "https://ibb.co/qMD4gBM",
       benefits: [
         {
           palestras: "mdi-check-circle-outline",
@@ -50,6 +51,7 @@
       id: 2,
       title: 'Ouro',
       amount: 1000,
+      imgLink: "https://ibb.co/jgBDy5d",
       benefits: [
         {
           palestras: "mdi-cancel",
@@ -63,6 +65,7 @@
       id: 3,
       title: 'Prata',
       amount: 500,
+      imgLink: "https://ibb.co/9ttwPKJ",
       benefits: [
         {
           palestras: "mdi-cancel",
@@ -76,6 +79,7 @@
       id: 4,
       title: 'Bronze',
       amount: 250,
+      imgLink: "https://ibb.co/xgn4w9B",
       benefits: [
         {
           palestras: "mdi-cancel",
