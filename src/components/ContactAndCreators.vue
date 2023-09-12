@@ -17,7 +17,7 @@
         </div>
       </div>
   </section>
-    <p class="section-title">Organização</p>
+    <p class="section-title">Realização</p>
     <section class="section">  
       <div class="logo-section">
         <a href="https://instagram.com/bsiconnects">
@@ -30,6 +30,14 @@
             </a>
           </div>
         </div>
+      </div>
+      <div class="logo-section">
+        <a href="https://www.tambau.com/">
+          <img src="../assets/logo-branca-tambau.png" alt="Logo da Tambau" class="logo-image">
+        </a>
+        <a href="https://www.linkedin.com/company/tremdy">
+          <img src="../assets/tremdy-logo.png" alt="Logo da Tremdy" class="logo-image">
+        </a>
       </div>
     </section>
 </template>
